@@ -1,0 +1,6 @@
+nested:
+  one: "foo"
+  two: "bar"
+  three: "baz"
+canComment:
+  - jasondlee
